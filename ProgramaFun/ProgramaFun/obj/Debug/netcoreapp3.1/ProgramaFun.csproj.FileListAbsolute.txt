@@ -1,0 +1,11 @@
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.exe
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.deps.json
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.runtimeconfig.json
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.dll
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\bin\Debug\netcoreapp3.1\ProgramaFun.pdb
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\obj\Debug\netcoreapp3.1\ProgramaFun.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\obj\Debug\netcoreapp3.1\ProgramaFun.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\obj\Debug\netcoreapp3.1\ProgramaFun.AssemblyInfo.cs
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\obj\Debug\netcoreapp3.1\ProgramaFun.dll
+C:\Users\yuris\Desktop\POO\ProgramaFun\ProgramaFun\obj\Debug\netcoreapp3.1\ProgramaFun.pdb

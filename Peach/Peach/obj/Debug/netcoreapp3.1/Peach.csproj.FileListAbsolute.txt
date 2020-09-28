@@ -1,0 +1,11 @@
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.exe
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.deps.json
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.runtimeconfig.json
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.dll
+C:\Users\yuris\Desktop\POO\Peach\Peach\bin\Debug\netcoreapp3.1\Peach.pdb
+C:\Users\yuris\Desktop\POO\Peach\Peach\obj\Debug\netcoreapp3.1\Peach.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\POO\Peach\Peach\obj\Debug\netcoreapp3.1\Peach.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\POO\Peach\Peach\obj\Debug\netcoreapp3.1\Peach.AssemblyInfo.cs
+C:\Users\yuris\Desktop\POO\Peach\Peach\obj\Debug\netcoreapp3.1\Peach.dll
+C:\Users\yuris\Desktop\POO\Peach\Peach\obj\Debug\netcoreapp3.1\Peach.pdb
